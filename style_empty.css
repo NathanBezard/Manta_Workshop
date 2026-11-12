@@ -1,0 +1,92 @@
+/*This file is empty; you can use it as a guide to create your webpage*/
+
+/*The .css files are used to style the webpage*/
+
+/*Colors that are used*/
+:root {
+  --accent: #6c5ce7;       /* titles and borders */
+  --background:;   /* page background */
+  --card:;         /* background of the white boxes */
+  --text:;         /* normal text */
+  --soft-text:;    /* lighter text */
+}
+
+/*Dark mode version*/
+body.dark {
+  --background:;
+  --card:;
+  --text:;
+  --soft-text:;
+}
+
+/*Main part of the web page*/
+body {
+
+}
+
+/*Header of the page*/
+header {
+
+}
+
+/*Different text in the page, 'h1' is the most important and it goes down to 'h6'*/
+h1 {
+
+}
+
+h2 {
+
+}
+
+/*Define different sections of the document, here see the 'About me', 'What I can do' ... sections*/
+section {
+
+}
+
+/*'a' is used for part of the text that contain hyperlink (ex: https://google.com )*/
+a {
+
+}
+
+/*Define buttons*/
+button {
+
+}
+
+/*Footer of the page*/
+footer {
+
+}
+
+/*These next part define custom section of the page, see the '.' in front of their names*/
+
+/*The small text beneath 'Hi, I'm Alex!' */
+.subheading {
+
+}
+
+/*Each individual skills of Alex*/
+.skill {
+
+}
+
+/*The grid that contains each of Alex's projects*/
+.projects {
+
+}
+
+/*Individual project*/
+.project {
+
+}
+
+/*The 'h3' part of each project, here used to write their title*/
+.project h3 {
+
+}
+
+/*The 'p' part of each project, here describing the project*/
+/*'p' is used to define the style of paragraphs*/
+.project p  {
+
+}
